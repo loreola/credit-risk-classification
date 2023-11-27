@@ -44,3 +44,34 @@ An overview of the analysis: Explain the purpose of this analysis.
 The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
 
 A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
+
+# Module 12 Report 
+
+## Overview of the Analysis
+
+In this Challenge, you’ll use various techniques to train and evaluate a model
+based on loan risk. You’ll use a dataset of historical lending activity from a
+peer-to-peer lending services company to build a model that can identify the 
+creditworthiness of borrowers. Lending companies lend money to borrowers with the
+expectationg that they money would be repay. Credit Risk is when borrowers don't 
+pay back the money borrowed.
+
+## Results
+
+Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
+
+* Machine Learning Model 1:
+  * Description of Model 1 Accuracy, Precision, and Recall scores.
+
+
+
+* Machine Learning Model 2:
+  * Description of Model 2 Accuracy, Precision, and Recall scores.
+
+## Summary
+
+Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:
+* Which one seems to perform best? How do you know it performs best?
+* Does performance depend on the problem we are trying to solve? (For example, is it more important to predict the `1`'s, or predict the `0`'s? )
+
+If you do not recommend any of the models, please justify your reasoning.
